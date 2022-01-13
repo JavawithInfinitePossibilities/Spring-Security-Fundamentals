@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 12
+Implementation-Title: Section-05-Secure-REST-API-ProductServices
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.sid.tutorials.springboot.security.Section05SecureRESTAPI
+ ProductServices
+Created-By: Maven Integration for Eclipse
+

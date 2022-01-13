@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "name": "Lenovo",
+    "description": "Laptop",
+    "price": 1000.00,
+    "couponCode": "NEWYEAR2022"
+}

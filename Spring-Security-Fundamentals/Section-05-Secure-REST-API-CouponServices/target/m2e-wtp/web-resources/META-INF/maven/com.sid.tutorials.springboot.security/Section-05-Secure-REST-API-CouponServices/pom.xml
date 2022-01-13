@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.sid.tutorials.springboot.security</groupId>
+		<artifactId>Spring-Security-Fundamentals</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>Section-05-Secure-REST-API-CouponServices</artifactId>
+	<packaging>war</packaging>
+	<name>Section-05-Secure-REST-API-CouponServices</name>
+	<description>Section-05-Secure-REST-API-CouponServices</description>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
+		<java.version>11</java.version>
+		<Project.name>Section-05-Secure-REST-API-CouponServices</Project.name>
+		<start-class>com.sid.tutorials.springboot.security.Section05SecureRESTAPICouponServices</start-class>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+	</dependencies>
+
+</project>
