@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Section-10-CSRF
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.springboot.security.Section10CSRF
-Created-By: Maven Integration for Eclipse
-

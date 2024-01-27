@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Section-08-OAuth-In-Action
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.springboot.security.Section08OAuthInAction
-Created-By: Maven Integration for Eclipse
-

@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk-Spec: 12
-Implementation-Title: Section-12-Method-level-Security
-Implementation-Version: 0.0.1-SNAPSHOT
-Main-Class: com.sid.tutorials.springboot.security.Section12MethodlevelSe
- curity
-Created-By: Maven Integration for Eclipse
-
